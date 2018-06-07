@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:31 +0800] "GET /page/login?url=http://localhost:8091/order/order-cart.html HTTP/1.1" 200 4049 http-bio-8088-exec-1 702
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:31 +0800] "GET /css/login.css HTTP/1.1" 304 - http-bio-8088-exec-7 8
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:31 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8088-exec-2 8
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:31 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 304 - http-bio-8088-exec-8 3
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:31 +0800] "GET /images/login-all-bg.png HTTP/1.1" 304 - http-bio-8088-exec-10 2
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:31 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 304 - http-bio-8088-exec-9 3
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:20:29:44 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8088-exec-9 493

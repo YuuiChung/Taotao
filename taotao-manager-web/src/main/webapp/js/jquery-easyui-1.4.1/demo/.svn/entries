@@ -1,0 +1,187 @@
+10
+
+dir
+14
+https://user-20161114ku/svn/taotao/trunk/taotao-manager-web/src/main/webapp/js/jquery-easyui-1.4.1/demo
+https://user-20161114ku/svn/taotao
+
+
+
+2017-08-11T03:27:19.076466Z
+14
+chung
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+52c47926-8d2b-3240-ad63-8043409797d9
+
+
+
+
+
+
+0
+empty
+
+accordion
+dir
+
+calendar
+dir
+
+combo
+dir
+
+combobox
+dir
+
+combogrid
+dir
+
+combotree
+dir
+
+datagrid
+dir
+
+datebox
+dir
+
+datetimebox
+dir
+
+datetimespinner
+dir
+
+demo.css
+file
+
+
+
+
+2017-08-10T09:50:50.044000Z
+d8660bd50016f1b5354ce97b45cde4e1
+2017-08-11T03:27:19.076466Z
+14
+chung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+306
+
+dialog
+dir
+
+draggable
+dir
+
+droppable
+dir
+
+easyloader
+dir
+
+filebox
+dir
+
+form
+dir
+
+layout
+dir
+
+linkbutton
+dir
+
+menu
+dir
+
+menubutton
+dir
+
+messager
+dir
+
+numberbox
+dir
+
+numberspinner
+dir
+
+pagination
+dir
+
+panel
+dir
+
+progressbar
+dir
+
+propertygrid
+dir
+
+resizable
+dir
+
+searchbox
+dir
+
+slider
+dir
+
+splitbutton
+dir
+
+tabs
+dir
+
+textbox
+dir
+
+timespinner
+dir
+
+tooltip
+dir
+
+tree
+dir
+
+treegrid
+dir
+
+validatebox
+dir
+
+window
+dir
+

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo
+END
+TbOrderShipping.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderShipping.java
+END
+TbItemParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParam.java
+END
+TbContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContent.java
+END
+TbItemParamItemExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamItemExample.java
+END
+TbOrderExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderExample.java
+END
+TbContentCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentCategory.java
+END
+TbItemExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemExample.java
+END
+TbContentCategoryExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentCategoryExample.java
+END
+TbItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItem.java
+END
+TbOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrder.java
+END
+TbContentExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentExample.java
+END
+TbItemParamItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamItem.java
+END
+TbItemParamExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamExample.java
+END
+TbOrderShippingExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderShippingExample.java
+END
+TbUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUser.java
+END
+TbItemDescExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemDescExample.java
+END
+TbOrderItemExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderItemExample.java
+END
+TbItemCat.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCat.java
+END
+TbItemCatExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCatExample.java
+END
+TbOrderItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderItem.java
+END
+TbItemDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemDesc.java
+END
+TbUserExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/taotao/!svn/ver/15/trunk/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUserExample.java
+END

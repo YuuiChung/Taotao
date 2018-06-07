@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/taotao/!svn/ver/35/trunk/taotao-search/taotao-search-service/src/test/java/com/taotao/solrj
+END
+TestSolrJ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/taotao/!svn/ver/41/trunk/taotao-search/taotao-search-service/src/test/java/com/taotao/solrj/TestSolrJ.java
+END
+TestSolrCloud.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/taotao/!svn/ver/35/trunk/taotao-search/taotao-search-service/src/test/java/com/taotao/solrj/TestSolrCloud.java
+END

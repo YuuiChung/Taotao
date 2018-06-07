@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/taotao/!svn/ver/35/trunk/taotao-search/taotao-search-service/src/main/resources/spring
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/taotao/!svn/ver/35/trunk/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml
+END
+applicationContext-activemq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/taotao/!svn/ver/49/trunk/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-activemq.xml
+END
+applicationContext-solr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/taotao/!svn/ver/49/trunk/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-solr.xml
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/taotao/!svn/ver/35/trunk/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-dao.xml
+END

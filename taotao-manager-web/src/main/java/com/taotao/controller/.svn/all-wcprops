@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/taotao/!svn/ver/14/trunk/taotao-manager-web/src/main/java/com/taotao/controller
+END
+ItemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/taotao/!svn/ver/17/trunk/taotao-manager-web/src/main/java/com/taotao/controller/ItemController.java
+END
+ItemCatController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/taotao/!svn/ver/17/trunk/taotao-manager-web/src/main/java/com/taotao/controller/ItemCatController.java
+END
+PageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/taotao/!svn/ver/14/trunk/taotao-manager-web/src/main/java/com/taotao/controller/PageController.java
+END
+PictureController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/taotao/!svn/ver/17/trunk/taotao-manager-web/src/main/java/com/taotao/controller/PictureController.java
+END
+IndexManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/taotao/!svn/ver/31/trunk/taotao-manager-web/src/main/java/com/taotao/controller/IndexManagerController.java
+END
+ContentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/taotao/!svn/ver/20/trunk/taotao-manager-web/src/main/java/com/taotao/controller/ContentController.java
+END
+ContentCategoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/taotao/!svn/ver/20/trunk/taotao-manager-web/src/main/java/com/taotao/controller/ContentCategoryController.java
+END

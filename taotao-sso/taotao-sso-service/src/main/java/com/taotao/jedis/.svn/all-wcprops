@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/taotao/!svn/ver/51/trunk/taotao-sso/taotao-sso-service/src/main/java/com/taotao/jedis
+END
+JedisClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/taotao/!svn/ver/51/trunk/taotao-sso/taotao-sso-service/src/main/java/com/taotao/jedis/JedisClient.java
+END
+JedisClientCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/taotao/!svn/ver/51/trunk/taotao-sso/taotao-sso-service/src/main/java/com/taotao/jedis/JedisClientCluster.java
+END
+JedisClientPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/taotao/!svn/ver/51/trunk/taotao-sso/taotao-sso-service/src/main/java/com/taotao/jedis/JedisClientPool.java
+END

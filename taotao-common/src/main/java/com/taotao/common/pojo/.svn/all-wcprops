@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/taotao/!svn/ver/13/trunk/taotao-common/src/main/java/com/taotao/common/pojo
+END
+TaotaoResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/taotao/!svn/ver/16/trunk/taotao-common/src/main/java/com/taotao/common/pojo/TaotaoResult.java
+END
+SearchItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/taotao/!svn/ver/29/trunk/taotao-common/src/main/java/com/taotao/common/pojo/SearchItem.java
+END
+EasyUITreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/taotao/!svn/ver/16/trunk/taotao-common/src/main/java/com/taotao/common/pojo/EasyUITreeNode.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/taotao/!svn/ver/29/trunk/taotao-common/src/main/java/com/taotao/common/pojo/SearchResult.java
+END
+EasyUIDataGridResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/taotao/!svn/ver/18/trunk/taotao-common/src/main/java/com/taotao/common/pojo/EasyUIDataGridResult.java
+END

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="taotao-search-service"
+  id="myeclipse.1503160216383"
+  context-root="/taotao-search-service"
+  j2ee-spec="1.7"
+  archive="taotao-search-service.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,48 @@
+10
+
+dir
+10
+https://user-20161114ku/svn/taotao/trunk/taotao-manager-web/src/main/webapp
+https://user-20161114ku/svn/taotao
+
+
+
+2017-08-10T09:19:38.800050Z
+10
+chung
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+52c47926-8d2b-3240-ad63-8043409797d9
+
+
+
+
+
+
+0
+empty
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+js
+dir
+

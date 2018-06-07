@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="taotao-portal-web"
+  id="myeclipse.1502589348158"
+  context-root="/taotao-portal-web"
+  j2ee-spec="1.7"
+  archive="taotao-portal-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
